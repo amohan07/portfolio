@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Vite
+.vite/
+*.local
+
+# dotenv environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# IDEs
+.idea/
+*.iml
+
+# Optional: system files
+*.swp
+*.swo
+*.bak
+
+# Optional: coverage/test reports
+coverage/
+*.lcov
+jest-test-results.json
+
